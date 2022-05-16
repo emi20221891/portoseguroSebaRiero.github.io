@@ -48,7 +48,7 @@ header:nth-of-type(1) nav ul li a:hover{
 }
 
 section:nth-of-type(2){
-    background-image: url("imagenes/realtor-giving-african-customer-keys-couple-buying-new-house-closeup.jpg");
+    background-image: url("/imagenes/realtor-giving-african-customer-keys-couple-buying-new-house-closeup.jpg");
     height: 400px;
     background-size: cover;
     background-repeat: no-repeat;
